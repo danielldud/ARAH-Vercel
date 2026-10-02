@@ -3,3 +3,6 @@ onlyBuiltDependencies:
   - sharp
   - workerd
   - unrs-resolver
+
+overrides:
+  miniflare>sharp: 0.35.4
